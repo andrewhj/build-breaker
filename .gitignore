@@ -1,0 +1,6 @@
+event-store
+*.iml
+build
+target
+.gradle
+.idea
